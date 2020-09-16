@@ -1,0 +1,11 @@
+.toolbar {
+    background-color: silver;
+}
+
+.tabbar {
+    background-color: silver;
+}
+
+.active {
+    background-color: black;
+}
