@@ -23,3 +23,26 @@ color: white;
     font-size: larger;
     font-weight: bold;
 }
+
+.searchPoster{
+    height: 150px;width: 100px;
+}
+
+.movieTitle{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.movieDetail{
+    font-size: 12px;
+}
+.rating{ padding: 0 0 0 0;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.star{
+    padding-left: 20px;     
+    color: goldenrod;
+    font-size: 26px;
+}
