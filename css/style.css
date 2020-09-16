@@ -13,13 +13,15 @@
 .title{
 font-weight: bold;
 font-size: 26px;
-color: white;
+color: #0076ff;
 }
 
-.poster{    height: 500px;width: auto;
+.poster{ text-align: center;   height: 540px;width: auto;
 }
 
 .top{
+    text-align: center;
+    padding-top: 20px;
     font-size: larger;
     font-weight: bold;
 }
@@ -44,5 +46,8 @@ color: white;
 .star{
     padding-left: 20px;     
     color: goldenrod;
-    font-size: 26px;
+    font-size: 28px;
+}
+.searchSize{
+    width: 300px;
 }
