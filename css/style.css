@@ -1,5 +1,5 @@
 .toolbar {
-    background-color: black;
+    background-color: darkblue    ;
 }
 
 .tabbar {
@@ -7,13 +7,13 @@
 }
 
 .active {
-    background-color:black;
+    background-color:darkblue;
 }
 
 .title{
 font-weight: bold;
 font-size: 26px;
-color: #0076ff;
+color: white;
 }
 
 .poster{ text-align: center;   height: 540px;width: auto;
@@ -51,3 +51,6 @@ color: #0076ff;
 .searchSize{
     width: 300px;
 }
+
+:checked+.tabbar__button {
+    color: white;}
