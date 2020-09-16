@@ -1,11 +1,25 @@
 .toolbar {
-    background-color: silver;
+    background-color: black;
 }
 
 .tabbar {
-    background-color: silver;
+    background-color: white;
 }
 
 .active {
-    background-color: black;
+    background-color:black;
+}
+
+.title{
+font-weight: bold;
+font-size: 26px;
+color: white;
+}
+
+.poster{    height: 500px;width: auto;
+}
+
+.top{
+    font-size: larger;
+    font-weight: bold;
 }
