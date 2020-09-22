@@ -110,3 +110,10 @@ color: #B22222	;
     width: 300px;
     /* src: url("/image/bw.jpg"); */
 }
+
+.back-button{
+    color:white ;
+}
+.back-button__icon{
+    fill: white;
+}
