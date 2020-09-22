@@ -31,9 +31,9 @@ color: #B22222	;
 .poster{ text-align: center;   height: 540px;width: auto;
 }
 
-.top{
+.top10{
     text-align: center;
-    padding-top: 20px;
+    padding-top: 28px;
     font-size: larger;
     font-weight: bold;
 }
@@ -43,7 +43,7 @@ color: #B22222	;
 }
 
 .movieTitle{
-    font-size: 20px;
+    font-size: 16px;
     font-weight: bold;
 }
 
@@ -51,12 +51,13 @@ color: #B22222	;
     font-size: 12px;
 }
 .rating{ padding: 0 0 0 0;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: bold;
 }
 
 .star{
-    padding-left: 20px;     
+    text-align:center;
+    padding: 0 0 0 0;    
     color: goldenrod;
     font-size: 28px;
 }
@@ -85,7 +86,7 @@ color: #B22222	;
 
 .detail{
     padding-top: 8px;
-    font-size: 16px;
+    font-size: 14px;
     line-height: 18px;
 }
 
@@ -102,5 +103,10 @@ color: #B22222	;
 .left{
     background-repeat:inherit;
 }
-}
 
+.bwPoster{
+    background-image: url("/image/bw.jpg");
+    height: 700px;
+    width: 300px;
+    /* src: url("/image/bw.jpg"); */
+}
